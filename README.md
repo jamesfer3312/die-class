@@ -1,2 +1,2 @@
 # Git Lab #2
-## First team member: <James Fernandez>
+## First team member: James Fernandez
