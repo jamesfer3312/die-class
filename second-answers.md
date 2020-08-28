@@ -8,4 +8,22 @@ Got error because I did not use git pull.
 CONFLICT (content): Merge conflict in README.md
 Automatic merge failed; fix conflicts and then commit the result.
 
-3. 
+3. *master
+
+4. * header
+
+
+5.         .gitignore
+           1170 die.h
+           die.cc
+           177 README.md
+           451 first-answers.md
+           451 second-answers.md
+
+6. .gitignore
+    README.md
+    die.h
+    first-answers.md
+    451 second-answers.md
+
+7. no 
